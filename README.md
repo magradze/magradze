@@ -21,6 +21,7 @@ Hi! My name is Giorgi 🤝 and I am a highly motivated and skilled full stack de
 -   Solidity 💻
 -   HardHat 🛠️
 -   Ethers JS 💻
+-   Python 🐍
 
 ## Contact Me 📧
 
