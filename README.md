@@ -19,7 +19,7 @@
 
 🔌 Building **Synapse**, a general-purpose modular ESP32 framework  
 
-📦 Hosted privately under the [**IoTessaract**](https://github.com/iotessaract) GitHub organization  
+📦 Hosted privately under the [**IoTesseract**](https://github.com/iotesseract) GitHub organization  
 
 🔒 Public repositories are coming soon
 
