@@ -1,40 +1,41 @@
 <h1 align="center">Hello, I'm Giorgi — Software Engineer</h1>
 
 <p align="center">
-  <strong>Crafting Embedded Systems, Cloud Architectures & Scalable Platforms</strong>
+  <strong>Author of Nextino — a smart, multi-platform C++ framework built on Arduino</strong>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔧 I am a **software engineer** with a passion for building robust systems from bare-metal firmware to cloud-native architectures.
-- 🌿 Currently developing **Synapse**, a modular ESP32 framework designed to simplify embedded development, not limited to any domain.
-- 🛠️ I work across the full stack — from embedded C/C++ to modern frontend/backend/cloud stacks.
-- 🧠 Exploring: embedded AI integration, RTOS patterns, distributed systems.
+- 🔧 I am a **software engineer** passionate about building robust systems — from bare-metal firmware to cloud-native platforms.  
+- 🌱 Currently creating **Nextino**, a new multi-platform embedded framework built on Arduino. It's still young, but designed to grow into a powerful and intelligent ecosystem.  
+- 🛠️ I work across the stack — from low-level C/C++ to modern frontend, mobile, and cloud architectures.  
+- 🔭 Vision: a world where embedded frameworks, mobile apps, and cloud services integrate seamlessly.  
 
 ---
 
 ## 🧠 Featured Work
 
-🔌 Building **Synapse**, a general-purpose modular ESP32 framework  
+✨ **Nextino** — a modular, scalable, and smart C++ framework built on Arduino.  
+   - Targets **ESP32, STM32, and other MCUs**  
+   - Provides a structured, plug-and-play architecture for embedded projects  
+   - Future roadmap: mobile companion apps and cloud services  
 
-📦 Hosted privately under the [**IoTesseract**](https://github.com/iotesseract) GitHub organization  
-
-🔒 Public repositories are coming soon
+*(Previously: **Synapse**, an ESP-IDF modular framework — an earlier step toward Nextino's architecture.)*  
 
 ---
 
 ## 🔧 Tech Stack
 
-**Languages**:  
-`Go` • `JavaScript / TypeScript` • `Python` • `Dart` • `C/C++ (basic proficiency)`
+**Languages**  
+`C/C++` • `Go` • `JavaScript / TypeScript` • `Python` • `Dart`
 
-**Frameworks & Tools**:  
-`ESP-IDF` • `Docker` • `Firebase` • `Next.js` • `Appwrite` • `MQTT` • `Linux`
+**Frameworks & Tools**  
+`Arduino` • `PlatformIO` • `ESP-IDF` • `Docker` • `Next.js` • `Appwrite` • `Flutter` • `Firebase` • `MQTT` • `Linux`
 
-**Other Interests**:  
-`Cloud Infrastructure` • `AI on the Edge` • `Open Source Tooling` • `DevOps & Automation`
+**Interests**  
+`Cloud Infrastructure` • `AI on the Edge` • `Open Source Ecosystems` • `DevOps & Automation`
 
 ---
 
@@ -49,10 +50,10 @@
 
 ## 🌐 Connect with Me
 
-- 🖥️ Website: [magradze.dev](https://magradze.dev) • [magradze.space](https://magradze.space)  
+- 🖥️ Website: [magradze.dev](https://magradze.dev) 
 - 🔗 LinkedIn: [linkedin.com/in/magradzedev](https://www.linkedin.com/in/magradzedev/)  
 - 📁 GitHub: [github.com/magradze](https://github.com/magradze)
 
 ---
 
-> *“Building systems that scale from silicon to cloud — one layer at a time.”*
+> *“Nextino — the future of Arduino development.”*
