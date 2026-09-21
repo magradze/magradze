@@ -1,11 +1,11 @@
 ### Hey, I'm Giorgi
 
-Systems architect and low-level software engineer focused on bare-metal environments, operating system design, and performant developer tooling.
+Systems architect and low-level software engineer focused on bare-metal environments, microkernel architecture, and performant developer tooling.
 
-- **Current Focus:** Developing **Dali OS** — a memory-safe, modular microkernel for ARM Cortex-M & RISC-V written in Rust ([dali-os.org](https://dali-os.org)).
-- **Systems & AI:** Architecting **Mindia** — a local AI agent runtime and system automation engine in Rust *(Private)*.
-- **Desktop & Media:** Built **LiveBoard** — high-performance broadcast playout controller with OBS integration using Tauri v2 & Rust *(Proprietary)*.
-- **Open Source:** Creator of **Nikala UI** — reactive component library natively built for SolidJS & Tailwind CSS v4 ([nikala.dev](https://nikala.dev)).
-- **Stack:** Rust, C/C++, Go, Python, TypeScript, ARM Cortex-M, STM32, ESP-IDF, Tauri.
+- **Operating Systems:** Author of **Dali OS** — an open-source, memory-isolated microkernel and application runtime written in Rust for ARM Cortex-M & RISC-V ([blackwingdynamics/dali](https://github.com/blackwingdynamics/dali)).
+- **Languages & Compilers:** Designing **Actus** — an experimental systems programming language based on Ergative Type Theory and semantic roles ([actus-lang/actus](https://github.com/actus-lang/actus)).
+- **UI & Tooling:** Creator of **Nikala UI** and **Folio** — modern primitives, components, and documentation tooling built natively for SolidJS and Tailwind CSS v4 ([nikala.dev](https://nikala.dev)).
+- **Desktop & Systems:** Architected high-performance local runtimes and tooling using Rust, Tauri v2, and low-level system integrations.
+- **Stack:** Rust, C/C++, Go, TypeScript, ARM Cortex-M, STM32, Bare-Metal / RTOS.
 
 [Portfolio](https://magradze.dev) • [LinkedIn](https://linkedin.com/in/magradzedev) • [Email](mailto:magradze.dev@gmail.com)
